@@ -11,7 +11,7 @@ One-click DNS lock script for Debian VPS
 一行命令拉取并运行：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/luck7x/fix-dns/main/fix_dns.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/luck7x/Dns-Fix-vps/main/fix_dns.sh)
 
 ```
 检查命令
